@@ -11,7 +11,7 @@
       <ul class = "Indice">
         <li> <a href = "#Descripción"> Descripción </a> <br> </li>
         <li> <a href = "#Temario"> Temario </a> <br> </li>
-        <li> <a href = "#Métodos"> </a> <br> </li>
+        <li> <a href = "#Métodos"> Métodos </a> <br> </li>
           <ul class = "subindice">
               <li> <a href="#Método del Trapecio"> Método del Trapecio </a> </li>
               <li> <a href="#Método de Simpson 1/3"> Método de Simpson 1/3 </a> </li>
