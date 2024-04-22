@@ -9,7 +9,8 @@
 <header> <font color = "red" size="+1" font face = "aharoni">
     <nav class = "navegacion">
       <ul class = "Indice">
-        <li> <a href = "Descripción"> Descripción </a></li>
+        <li> <a href = "Descripción"> Descripción </a> <br> </li>
+          <li> <a hreg = "Temario"> Temario </a> <br> </li>
       </ul>
     </nav>
 </font> </header>
