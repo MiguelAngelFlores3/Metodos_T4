@@ -2,7 +2,6 @@
 
 <h4> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i>Integrantes </i> </b> </font> </h4>
 
------------------------------------------------------------------------------------------
 
 <h3 align = "center"> <font color = "darkorange" size = "+6"  font face =  "cooper black">  Índice </font> </h3>
 
