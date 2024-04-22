@@ -13,6 +13,10 @@
         <li> <a href = "#Temario"> Temario </a> <br> </li>
         <li> <a href = "#Métodos"> </a> <br> </li>
           <ul class = "subindice">
+              <li> <a href="#Método del Trapecio"> Método del Trapecio </a> </li>
+              <li> <a href="#Método de Simpson 1/3"> Método de Simpson 1/3 </a> </li>
+              <li> <a href="#Método de Simpson 3/8"> Método de Simpson 3/8 </a> </li> 
+              <li> <a href="#Método de la Cuadratura Gaussiana"> Método de la Cuadratura Gaussiana </a> </li> 
           </ul>
       </ul>
     </nav>
@@ -31,6 +35,7 @@ En este documento podremos obser el funcionamiento de diversos métodos aplicand
 En cada una de las carpetas podremos encontrar lo que son los códigos de cada método, tanto de su diferenciación como la de integración, y en cada carpeta podremos encontrar cinco programas los cuales estan desarrollados en el lenguaje de programación Java, en los cuales estarán documentados para un mayor entendimiento del programa.
 
 -----------------------------------------------------------------------------------------
+
 <h3 align = "center"> <font  font face = "bauhaus 93">  <a name="Temario"> Temario</a> </font> </h3>
 
    4.1 Diferenciación Numérica 
@@ -42,6 +47,7 @@ En cada una de las carpetas podremos encontrar lo que son los códigos de cada m
    4.4 Aplicación
 
 -----------------------------------------------------------------------------------------
+
 <h2 align = "center"> <font  font face = "bauhaus 93"> <a name="Métodos"> Métodos</a> </font> </h2>
 
 <h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método del Trapecio ">  Método del Trapecio </a> </font> </h3>
