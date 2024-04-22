@@ -7,24 +7,12 @@
 <h3 align = "center"> <font color = "darkorange" size = "+6"  font face =  "cooper black">  Índice </font> </h3>
 
 <header> <font color = "red" size="+1" font face = "aharoni">
-                <nav class="navegacion">
-                    <ul class="Indice">
-                       <li> <a href="#Temario"> </a> </li>
-                            <ul class="subindice"> 
-                                <li> <a href="#"> </a> </li>
-                                <li> <a href="#">  </a> </li>
-                                <li> <a href="#">  </a> </li>  
-                            </ul>
-                      <li> <a href="#Métodos"> Métodos </a> <br> </li>
-                            <ul class="subindice"> 
-                                <li> <a href="#Método de Bisección"> Método de Bisección. </a> </li>
-                                <li> <a href="#Método de la Falsa Posición"> Método de la Falsa Posición. </a> </li>
-                                <li> <a href="#Método de la Secante"> Método de la Secante. </a> </li> 
-                                <li> <a href="#Método de Newton-Raphson"> Método de Newton-Raphson. </a> </li> 
-                            </ul>
-                    </ul>
-                </nav>
-            </font> </header>
+    <nav class = "navegacion">
+      <ul class = "Indice">
+        <li> <a href = "Descripción"> Descripción </a> <br> </li>
+      </ul>
+    </nav>
+</font> </header>
 -----------------------------------------------------------------------------------------
 
 <h3 align = "center"> <font  font face = "bauhaus 93">  <a name="Descripción"> Descripción</a> </font> </h3>
