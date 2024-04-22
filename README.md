@@ -140,7 +140,7 @@ Este método es útil cuando la función a integrar es difícil o imposible de i
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
 
-![Captura de pantalla 2024-04-21 134559](https://github.com/MiguelAngelFlores3/Metodos_T4/assets/167603831/866c3eca-3072-4589-85c5-e0a3b862bf69)
+![Captura de pantalla 2024-04-21 134559](https://github.com/MiguelAngelFlores3/Metodos_T4/assets/167603831/dbc10aaf-0a47-49c8-9ebd-f0313ac94924)
 
 <h3 align = "center"> <font  font face = "bauhaus 93"> <a name="Método de Simpson 1/3 ">  Método de Simpson 1/3 </a> </font> </h3>
 
