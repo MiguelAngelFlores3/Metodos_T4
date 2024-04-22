@@ -3,6 +3,8 @@
 <h4> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i>Integrantes </i> </b> </font> </h4>
 
 
+-----------------------------------------------------------------------------------------
+
 <h3 align = "center"> <font color = "darkorange" size = "+6"  font face =  "cooper black">  Índice </font> </h3>
 
 <header> <font color = "red" size="+1" font face = "aharoni">
@@ -20,6 +22,7 @@
       </ul>
     </nav>
 </font> </header>
+
 -----------------------------------------------------------------------------------------
 
 <h3 align = "center"> <font  font face = "bauhaus 93">  <a name="Descripción"> Descripción</a> </font> </h3>
