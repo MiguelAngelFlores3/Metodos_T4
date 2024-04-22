@@ -15,10 +15,10 @@
         <li> <a href = "#Temario"> Temario </a> <br> </li>
         <li> <a href = "#Métodos"> Métodos </a> <br> </li>
           <ul class = "subindice">
-              <li> <a href="#Método del Trapecio"> Método del Trapecio </a> <br> </li>
-              <li> <a href="#Método de Simpson 1/3"> Método de Simpson 1/3 </a> <br> </li>
-              <li> <a href="#Método de Simpson 3/8"> Método de Simpson 3/8 </a> <br> </li> 
-              <li> <a href="#Método de la Cuadratura Gaussiana"> Método de la Cuadratura Gaussiana </a> <br> </li> 
+              <li> <a href="# Método del Trapecio "> Método del Trapecio </a> <br> </li>
+              <li> <a href="# Método de Simpson 1/3 "> Método de Simpson 1/3 </a> <br> </li>
+              <li> <a href="# Método de Simpson 3/8"> Método de Simpson 3/8 </a> <br> </li> 
+              <li> <a href="# Método de la Cuadratura Gaussiana "> Método de la Cuadratura Gaussiana </a> <br> </li> 
           </ul>
       </ul>
     </nav>
@@ -142,7 +142,7 @@ Este método es útil cuando la función a integrar es difícil o imposible de i
 
 ![Captura de pantalla 2024-04-21 134559](https://github.com/MiguelAngelFlores3/Metodos_T4/assets/167603831/dbc10aaf-0a47-49c8-9ebd-f0313ac94924)
 
-<h3 align = "center"> <font  font face = "bauhaus 93"> <a name="Método de Simpson 1/3 ">  Método de Simpson 1/3 </a> </font> </h3>
+<h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de Simpson 1/3 ">  Método de Simpson 1/3 </a> </font> </h3>
 
 <h4> <font font face = "arial"> Descripción </h4>
 
@@ -238,7 +238,7 @@ Este método proporciona una mayor precisión que el Método del Trapecio para l
 
 ![Captura de pantalla 2024-04-21 142010](https://github.com/MiguelAngelFlores3/M-TODOS_T4/assets/167603831/4790a5b1-9e8c-4d36-ac32-fc21be24a584)
 
-<h3 align = "center"> <font  font face = "bauhaus 93"> <a name="Método de Simpson 3/8 ">  Método de Simpson 3/8 </a> </font> </h3>
+<h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de Simpson 3/8 ">  Método de Simpson 3/8 </a> </font> </h3>
 
 <h4> <font font face = "arial"> Descripción </h4>
 
@@ -332,7 +332,7 @@ El Método de Simpson 3/8 es una técnica de integración numérica que extiende
 
 ![Captura de pantalla 2024-04-21 144711](https://github.com/MiguelAngelFlores3/M-TODOS_T4/assets/167603831/2f81f60f-9961-47cc-b7d6-9cc7e679a7eb)
 
-<h3 align = "center"> <font  font face = "bauhaus 93"> <a name="Método de la Cuadratura Gaussiana ">  Método de la Cuadratura Gaussiana </a> </font> </h3>
+<h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de la Cuadratura Gaussiana ">  Método de la Cuadratura Gaussiana </a> </font> </h3>
 
 <h4> <font font face = "arial"> Descripción </h4>
   
