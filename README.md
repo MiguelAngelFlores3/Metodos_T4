@@ -9,13 +9,13 @@
 <header> <font color = "red" size="+1" font face = "aharoni">
                 <nav class="navegacion">
                     <ul class="Indice">
-                       <li> <a href="#"> </a> </li>
+                       <li> <a href="#Temario"> </a> </li>
                             <ul class="subindice"> 
                                 <li> <a href="#"> </a> </li>
                                 <li> <a href="#">  </a> </li>
                                 <li> <a href="#">  </a> </li>  
                             </ul>
-                      <li> <a href="#Métodos"> Métodos numéricos para encontrar las raíces de ecuaciones que se encuentran en nuestro repositorio. </a> <br> </li>
+                      <li> <a href="#Métodos"> Métodos </a> <br> </li>
                             <ul class="subindice"> 
                                 <li> <a href="#Método de Bisección"> Método de Bisección. </a> </li>
                                 <li> <a href="#Método de la Falsa Posición"> Método de la Falsa Posición. </a> </li>
