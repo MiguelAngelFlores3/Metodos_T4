@@ -3,6 +3,9 @@
 <h4> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i>Integrantes </i> </b> </font> </h4>
 
 <li>Miguel Ángel Flores López</li>
+<li>Diego Alonso Fernández Delgadillo</li>
+<li>Xavier Valle Dorantes</li>
+<li>José Antonio Guerrero Lazcano</li>
 
 -----------------------------------------------------------------------------------------
 
