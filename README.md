@@ -6,6 +6,7 @@
 <li>Diego Alonso Fernández Delgadillo</li>
 <li>Xavier Valle Dorantes</li>
 <li>José Antonio Guerrero Lazcano</li>
+<li>Kevin Espejel Huerta Lazcano</li>
 
 -----------------------------------------------------------------------------------------
 
